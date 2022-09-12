@@ -1,4 +1,7 @@
-### 🥱 Hey, it's @Arijit this side 
+### 🥱 Hey, it's @Arijit this side
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/104318829/189577583-30d6e4b0-dd2a-451e-8963-138fdca1310b.svg)
+
 ---
 
 # 🤠 I code mostly in :
