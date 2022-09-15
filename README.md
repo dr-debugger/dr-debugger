@@ -37,9 +37,12 @@
 </p>
 
 ---
-### 👉👈 Reach me out 🥱
+### 👉👈 Reach me at 🥱
  <a href="mailto:arijitm.glc@gmail.com" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190454442-e418971f-c4d3-43cf-b592-de02e3238b14.png"/>
+</a>
+<a href="https://stackoverflow.com/users/19761597/arijit" target="_blank">
+  <img height="50" src="https://user-images.githubusercontent.com/104318829/190456301-2c7098fb-810b-4ebe-a9ee-f39ea3973b01.png"/>
 </a>
 
 ---
