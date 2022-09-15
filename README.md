@@ -43,13 +43,13 @@
 <a href="https://stackoverflow.com/users/19761597/arijit">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190456301-2c7098fb-810b-4ebe-a9ee-f39ea3973b01.png"/>
 </a>
-<a href="https://stackoverflow.com/users/19761597/arijit">
+<a href="https://www.linkedin.com/in/arijit-maiti-124364241">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190456956-e52e2111-b947-48e7-bfb2-0633bb6071a1.png"/>
 </a>
-<a href="https://stackoverflow.com/users/19761597/arijit">
+<a href="https://www.reddit.com/user/freeze_ninja">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190457211-dc03d382-f6f7-4f8c-a3ad-304c937d7a6e.png"/>
 </a>
-<a href="https://stackoverflow.com/users/19761597/arijit">
+<a href="https://www.facebook.com/profile.php?id=100004448536313">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190457660-199a7f1c-18cf-4b22-bb0c-3215fd237c5d.png"/>
 </a>
 <a href="https://stackoverflow.com/users/19761597/arijit">
