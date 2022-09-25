@@ -52,7 +52,7 @@
 <a href="https://www.facebook.com/profile.php?id=100004448536313">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190457660-199a7f1c-18cf-4b22-bb0c-3215fd237c5d.png"/>
 </a>
-<a href="https://stackoverflow.com/users/19761597/arijit">
+<a href="https://twitter.com/freeze_ninja_">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190457892-be2caeef-f9cd-4781-9997-24d89dba4593.png"/>
 </a>
 
