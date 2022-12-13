@@ -18,10 +18,10 @@
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" />
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" /> 
     </td>
   </tr>
 </table>
