@@ -8,7 +8,7 @@
 <table align="center">
   <tr>
     <td valign="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-debugger&theme=midnight-purple&layout=compact&langs_count=10"/>
+     <img src="https://github-readme-stats-eilf-dr-debugger.vercel.app/api/top-langs/?username=dr-debugger&theme=midnight-purple&layout=compact&langs_count=10"/>
     </td>
     <td valign="center">
     <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -28,7 +28,7 @@
 
 ## 🎉 My Stats :
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=dr-debugger&show_icons=true&theme=outrun"/>
+ <img src="https://github-readme-stats-eilf-dr-debugger.vercel.app/api?username=dr-debugger&show_icons=true&theme=outrun"/>
 </p>
 
 ## ❤️ Total Contributions & Streaks :
