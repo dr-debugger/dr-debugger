@@ -60,13 +60,14 @@
 #### Humour of the DAY 😉
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=algolia" alt="Jokes Card" />
 
+---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dr-debugger/count.svg" />
 </p>
-
+<p align="center"> 
 <img src="https://img.shields.io/github/followers/dr-debugger?label=Followers&style=social" alt="followers" />
-
+</p>
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=dr-debugger.dr-debugger) -->
 <!-- [![Github](https://img.shields.io/github/followers/dr-debugger?label=Follow&style=social)](https://github.com/dr-debugger) -->
 
