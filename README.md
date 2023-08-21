@@ -1,4 +1,4 @@
-### 🤗 Hey, it's @Arijit this side
+### 😇 Hey, it's @Arijit this side
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/104318829/189577583-30d6e4b0-dd2a-451e-8963-138fdca1310b.svg)
 
@@ -35,6 +35,9 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr-debugger&theme=jolly"/>
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dr-debugger&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ### 👉👈 Reach me at 🥱
  <a href="mailto:arijitm.glc@gmail.com">
