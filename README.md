@@ -39,6 +39,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dr-debugger&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+<!---
 ### 👉👈 Reach me at 🥱
  <a href="mailto:arijitm.glc@gmail.com">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190454442-e418971f-c4d3-43cf-b592-de02e3238b14.png"/>
@@ -58,6 +59,8 @@
 <a href="https://twitter.com/freeze_ninja_">
   <img height="50" src="https://user-images.githubusercontent.com/104318829/190457892-be2caeef-f9cd-4781-9997-24d89dba4593.png"/>
 </a>
+--->
+
 
 ---
 #### Humour of the DAY 😉
